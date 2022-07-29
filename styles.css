@@ -13,12 +13,17 @@
       align-items: center;
       
   }
+
+  .c1{
+    background-image: url("https://images.unsplash.com/photo-1466637574441-749b8f19452f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80");
+  background-repeat: no-repeat;  
   
-.c1{
-    display: flex;
-    grid-template-columns: 1fr 1fr;
-    justify-content:space-evenly;
-}
+  background-size: cover;
+  display:flex;
+  flex-direction: column;
+      color:white;
+      align-items:center;
+  }
 
 li{
     display:inline;

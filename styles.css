@@ -1,10 +1,19 @@
 .child1{
-    display:flex;
-    
-    background-color: ;
+    display:flex; 
+      
+    align-items: center;  
+  flex-wrap:wrap;
+      
+  }
 
-    
-}
+  .c2{
+      display: flex;
+   
+      justify-content:space-between;
+      align-items: center;
+      
+  }
+  
 .c1{
     display: flex;
     grid-template-columns: 1fr 1fr;

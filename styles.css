@@ -38,3 +38,8 @@ a{
     display:flex;
     justify-content:center;
   }
+
+  .c3{
+    background-color: black;
+    color:white;
+  }
